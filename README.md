@@ -1,22 +1,10 @@
-<!-- Banner with background image and overlay text -->
-<div style="
-    background-image: url('https://i.ibb.co/2YM2Yzk6/Whats-App-Image-2025-11-19-at-1-01-50-PM.jpg');
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    height: 200px;
-    border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: white;
-    ">
-  <h1>Hi 👋, I'm Mahdi Hasan (Ratul)</h1>
-  <h3>Frontend Developer | Building clean & responsive web apps</h3>
-  <p>HTML | CSS | JavaScript | React | Node.js | Tailwind</p>
-</div>
+<!-- Banner Image -->
+![Banner](https://i.ibb.co/2YM2Yzk6/Whats-App-Image-2025-11-19-at-1-01-50-PM.jpg)
+
+# Hi 👋, I'm Mahdi Hasan (Ratul)
+### Frontend Developer | Building clean & responsive web apps
+HTML | CSS | JavaScript | React | Node.js | Tailwind
+
 
 
 
