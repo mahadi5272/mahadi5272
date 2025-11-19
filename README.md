@@ -1,15 +1,23 @@
-<!-- Banner Image with Overlay Info -->
-<div style="position: relative; text-align: center; color: white;">
-  <img src="https://i.ibb.co/2YM2Yzk6/Whats-App-Image-2025-11-19-at-1-01-50-PM.jpg" 
-       alt="Banner" 
-       style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
-
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <h1>Hi 👋, I'm Mahdi Hasan (Ratul)</h1>
-    <h3>Frontend Developer | Building clean & responsive web apps</h3>
-    <p>HTML | CSS | JavaScript | React | Node.js | Tailwind</p>
-  </div>
+<!-- Banner with background image and overlay text -->
+<div style="
+    background-image: url('https://i.ibb.co/2YM2Yzk6/Whats-App-Image-2025-11-19-at-1-01-50-PM.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    ">
+  <h1>Hi 👋, I'm Mahdi Hasan (Ratul)</h1>
+  <h3>Frontend Developer | Building clean & responsive web apps</h3>
+  <p>HTML | CSS | JavaScript | React | Node.js | Tailwind</p>
 </div>
+
 
 
 ## 🚀 About Me
