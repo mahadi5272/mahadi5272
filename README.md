@@ -1,8 +1,9 @@
-<!-- Banner Image -->
+<!-- Banner Image with Developer Info -->
 <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=300&q=80" alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm Mahdi Hasan (Ratul)</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Frontend Developer | Building clean & responsive web apps</h3>
+<p align="center">HTML | CSS | JavaScript | React | Node.js | Tailwind</p>
 
 ---
 
@@ -68,5 +69,6 @@
 ---
 
 📌 *Pinned repos, project README — YOU WILL ADD YOURSELF (as instructed).*
+
 
 
