@@ -1,5 +1,5 @@
 <!-- Banner Image with Developer Info -->
-<img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=300&q=80" alt="Banner" />
+<img src="https://i.ibb.co.com/2YM2Yzk6/Whats-App-Image-2025-11-19-at-1-01-50-PM.jpg" alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm Mahdi Hasan (Ratul)</h1>
 <h3 align="center">Frontend Developer | Building clean & responsive web apps</h3>
