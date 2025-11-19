@@ -1,38 +1,32 @@
 <!-- Banner Image -->
 ![Banner](https://i.ibb.co/2YM2Yzk6/Whats-App-Image-2025-11-19-at-1-01-50-PM.jpg)
 
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://i.ibb.co/album/sample-profile.jpg" alt="Mahdi Hasan (Ratul)" width="150" style="border-radius:50%;"/>
+</p>
+
 # Hi 👋, I'm Mahdi Hasan (Ratul)
 ### Frontend Developer | Building clean & responsive web apps
+📍 Sonaimuri, Noakhali, Bangladesh  
+✉️ mahdi5272@example.com  
+
 HTML | CSS | JavaScript | React | Node.js | Tailwind
 
-
-
+---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **MERN Stack Development**
-- 🎯 My goal is to become a **skilled web developer**
-- 📘 I enjoy learning new technologies and building real-world projects
-- 💻 I love creating clean, modern, and responsive UI
+- 🌱 I’m currently learning **MERN Stack Development**  
+- 🎯 My goal is to become a **skilled web developer**  
+- 💻 I enjoy creating clean, modern, and responsive UIs  
+- 📘 Passionate about learning new technologies and building real-world projects
 
 ---
 
 ## 🔥 Current Activities
-- 🔭 I’m currently practicing **Frontend & Backend basics**
-- 📚 Learning **React** + **Node.js**
+- 🔭 I’m currently practicing **Frontend & Backend basics**  
+- 📚 Learning **React** + **Node.js**  
 - 🌐 Exploring modern tools like **TailwindCSS**, **Firebase**
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/mahdi5272" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://fb.com/mahadi.hasan.763624" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-</p>
 
 ---
 
@@ -53,23 +47,54 @@ HTML | CSS | JavaScript | React | Node.js | Tailwind
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Connect With Me
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mahdi5272&show_icons=true" alt="stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi5272" alt="languages" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi5272" alt="streak" />
+<a href="https://linkedin.com/in/mahdi5272" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://fb.com/mahadi.hasan.763624" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+<a href="https://github.com/mahdi5272" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-📌 *Pinned repos, project README — YOU WILL ADD YOURSELF (as instructed).*
+## 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mahdi5272&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi5272" alt="Top Languages" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi5272" alt="Streak" />
+</p>
+
+---
+
+## 📌 Pinned Repositories
+
+### 1. Courier Project
+![Courier Screenshot](https://via.placeholder.com/800x400.png?text=Courier+Project+Screenshot)
+**Overview:** A web app for easy courier delivery management.  
+**Live Link:** [Courier Project](https://your-live-link.com)  
+**Tech Stack:** HTML, CSS, JavaScript, React, Tailwind, Node.js, Firebase  
+**Main Features:** Order courier, track delivery, responsive UI  
+**Dependencies:** react-router-dom, firebase, axios  
+**Local Setup:**  
+```bash
+git clone https://github.com/mahdi5272/courier-project.git
+cd courier-project
+npm install
+npm start
+
 
 
 
