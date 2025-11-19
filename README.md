@@ -1,11 +1,16 @@
-<!-- Banner Image with Developer Info -->
-<img src="https://i.ibb.co.com/2YM2Yzk6/Whats-App-Image-2025-11-19-at-1-01-50-PM.jpg" alt="Banner" />
+<!-- Banner Image with Overlay Info -->
+<div style="position: relative; text-align: center; color: white;">
+  <img src="https://i.ibb.co/2YM2Yzk6/Whats-App-Image-2025-11-19-at-1-01-50-PM.jpg" 
+       alt="Banner" 
+       style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
 
-<h1 align="center">Hi 👋, I'm Mahdi Hasan (Ratul)</h1>
-<h3 align="center">Frontend Developer | Building clean & responsive web apps</h3>
-<p align="center">HTML | CSS | JavaScript | React | Node.js | Tailwind</p>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <h1>Hi 👋, I'm Mahdi Hasan (Ratul)</h1>
+    <h3>Frontend Developer | Building clean & responsive web apps</h3>
+    <p>HTML | CSS | JavaScript | React | Node.js | Tailwind</p>
+  </div>
+</div>
 
----
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **MERN Stack Development**
