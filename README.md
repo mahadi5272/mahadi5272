@@ -1,5 +1,5 @@
-<!-- Banner Image (YOU WILL ADD THIS PART) -->
-<!-- <img src="YOUR_BANNER_URL" alt="Banner" /> -->
+<!-- Banner Image -->
+<img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=300&q=80" alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm Mahdi Hasan (Ratul)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
@@ -67,5 +67,6 @@
 
 ---
 
-📌 *Pinned repos, project README, and banner image — YOU WILL ADD YOURSELF (as instructed).*
+📌 *Pinned repos, project README — YOU WILL ADD YOURSELF (as instructed).*
+
 
