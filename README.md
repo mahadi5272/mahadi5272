@@ -1,5 +1,4 @@
-<!-- Banner Image -->
-![Banner](https://i.ibb.co/2YM2Yzk6/Whats-App-Image-2025-11-19-at-1-01-50-PM.jpg)
+
 
 <!-- Profile Picture -->
 <p align="center">
@@ -33,17 +32,77 @@ HTML | CSS | JavaScript | React | Node.js | Tailwind
 ## 🛠️ Skills & Tools
 
 <p align="left">
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  </a>
+
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
+
+  <!-- React -->
+  <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Next.js -->
+  <a href="https://nextjs.org/">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Express.js -->
+  <a href="https://expressjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+  </a>
+
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Figma -->
+  <a href="https://www.figma.com/">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Swiper.js -->
+  <a href="https://swiperjs.com/">
+    <img src="https://swiperjs.com/images/swiper-logo.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Framer Motion -->
+  <a href="https://www.framer.com/motion/">
+    <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 
