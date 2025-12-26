@@ -8,7 +8,7 @@
 # Hi 👋, I'm Mahdi Hasan (Ratul)
 ### Frontend Developer | Building clean & responsive web apps
 📍 Sonaimuri, Noakhali, Bangladesh  
-✉️ mahdi5272@example.com  
+✉️ mahdihasan5272@gmail.com  
 
 HTML | CSS | JavaScript | React | Node.js | Tailwind
 
