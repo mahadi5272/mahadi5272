@@ -2,7 +2,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://i.ibb.co/album/sample-profile.jpg" alt="Mahdi Hasan (Ratul)" width="150" style="border-radius:50%;"/>
+  <img src="https://i.ibb.co.com/SwpXQCQX/Red-and-Black-Modern-Business-Development-Strategy-Banner.png"/>
 </p>
 
 # Hi 👋, I'm Mahdi Hasan (Ratul)
